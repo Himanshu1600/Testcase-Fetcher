@@ -1,12 +1,12 @@
 {
   "name": "test_parser",
   "version": "1.0.0",
-  "description": "This is a test parser created by Prakhar Rai (github.com/prakharrai1609) for personal usage and convenience during coding contests.",
+  "description": "This is a testcase fetcher which fetch testcases from website like codeforces,codechef,atcoder etc.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Prakhar Rai",
+  "author": "HIMANSHU PARIHAR",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.1",
