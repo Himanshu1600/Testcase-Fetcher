@@ -27,7 +27,7 @@ app.post("/", (req, res) => {
     if (e) console.log(e);
   });
 
-  console.log("tests parsed");
+  console.log("testcases fetched");
 });
 
 app.listen(port, (req, res) => {
